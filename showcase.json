@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "repository": "Subculture_Tracker",
+  "enabled": true,
+  "featured": false,
+  "order": 6,
+  "category": "Project",
+  "summary": "",
+  "tags": [],
+  "demoUrl": "",
+  "coverImage": ""
+}
