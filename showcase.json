@@ -1,10 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "repository": "Subculture_Tracker",
   "enabled": true,
   "featured": false,
   "order": 6,
   "category": "Project",
+  "title": "Subculture Tracker",
   "summary": "Collect, store, and browse gacha history from supported games in a desktop application.",
   "tags": [
     "gacha",
@@ -12,6 +13,17 @@
     "desktop",
     "history"
   ],
+  "status": "active",
+  "platforms": [
+    "Desktop"
+  ],
+  "highlights": [
+    "Automatic gacha import",
+    "Local history storage",
+    "Desktop record browser"
+  ],
   "demoUrl": "",
-  "coverImage": ""
+  "downloadUrl": "https://github.com/jyc8369/Subculture_Tracker/releases",
+  "coverImage": "",
+  "accent": "neutral"
 }
