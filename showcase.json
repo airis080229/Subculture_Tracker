@@ -5,8 +5,13 @@
   "featured": false,
   "order": 6,
   "category": "Project",
-  "summary": "",
-  "tags": [],
+  "summary": "Collect, store, and browse gacha history from supported games in a desktop application.",
+  "tags": [
+    "gacha",
+    "tracker",
+    "desktop",
+    "history"
+  ],
   "demoUrl": "",
   "coverImage": ""
 }
