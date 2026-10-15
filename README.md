@@ -28,3 +28,8 @@ It shows the data in a desktop window and saves the results for you.
 - Supported games are listed in the developer guide.
 - More technical details are also in the developer guide.
 
+## License and third-party material
+
+The original source code and project-authored software documentation are licensed under the [MIT License](LICENSE).
+
+Screenshots, game images, icons, logos, and other third-party materials shown in `demo/source/` or elsewhere in this repository are **not covered by the MIT License**. Rights to game content, game names, artwork, and trademarks remain with their respective owners. Inclusion for demonstration or documentation does not grant permission to reuse or redistribute those materials separately.
